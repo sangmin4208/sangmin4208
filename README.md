@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lee Sangmin
-- 😎 I got a [Certification](https://certificate.algoexpert.io/AE-384c45c730) Of [AlgoExpert](https://certificate.algoexpert.io/AE-384c45c730)
-- 🤙 I'm looking for a job!
+- 😎 I got a [certificate](https://certificate.algoexpert.io/AE-384c45c730) from [AlgoExpert](https://www.algoexpert.io/)
+- 🤙 I'm looking for a job.
 - 📫 How to reach me ... sangmin4208@gmail.com
 
 <!---
