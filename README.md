@@ -22,7 +22,7 @@
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [하루에 코테 하나](https://dev.to/sangmin4208/harue-han-munje-37m1)
+- [하루에 코테 하나 #1](https://dev.to/sangmin4208/harue-han-munje-37m1)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangmin4208&show_icons=true&locale=en&layout=compact" alt="sangmin4208" /></p>
